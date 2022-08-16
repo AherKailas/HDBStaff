@@ -1,0 +1,60 @@
+
+    input[type=text] {
+        width: 100%;
+        padding: 3px 3px;
+        margin: 4px 0;
+        box-sizing: border-box;
+        border: 2px solid WHITE;
+        border-radius: 2px;
+    }
+    
+    form {
+        padding-right: 300px;
+    }
+    /*.center {
+    border: 5px solid #000;
+    text-align: center;
+    }*/
+    .center {
+        background-color: rgb(0 0 0/ 80%);
+        padding: 50px 70px;
+        height: 500px;
+        width: 500px;
+   margin-left: 400px;
+   margin-top: 80px;
+    }
+    
+    div {
+        margin-left: 10%;
+        max-width: 30%;
+        padding-bottom: 5%;
+    }
+    
+    
+    /*
+    body {
+        background: url("image/20.jpg");
+        background-repeat: no-repeat;
+        background-size: 1550px 750px;
+    }
+    */
+    label {
+        color: white;
+    }
+    
+    h3, h4 {
+        color: white;
+    }
+    button {
+        background-color: #04AA6D;
+        color: white;
+        padding: 14px 20px;
+        margin: 8px 0;
+        border: none;
+        cursor: pointer;
+        width: 98%;
+        
+      }
+      button:hover{
+        background-color: #333;
+      }
