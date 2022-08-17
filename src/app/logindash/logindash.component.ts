@@ -17,4 +17,10 @@ export class LogindashComponent implements OnInit {
   {
     this.router.navigate(['/dashboard'])
   }
+
+goToPass()
+{
+  this.router.navigate(['/pass'])
+}
+
 }
